@@ -4,3 +4,19 @@
   padding: 2rem;
 }
 
+.userCards {
+  display: flex;
+  flex-flow: row wrap;
+  gap:1rem;
+}
+
+.userCard {
+  padding: 1rem;
+  border: solid 1px #000;
+  border-radius: 1rem;
+}
+
+.userCard img {
+  border-radius: 50%;
+}
+
