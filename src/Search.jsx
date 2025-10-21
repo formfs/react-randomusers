@@ -1,5 +1,6 @@
 import { useState } from "react";
 import userData from "./assets/datausers.json";
+import UserCard from "./UserCard";
 import "./Search.css";
 
 function Search() {
@@ -30,14 +31,7 @@ function Search() {
       </div>
       <section className="userCards">
         {filtered.map((user) => (
-          <div key={user.login.uuid} className="userCard">
-            <img src={user.picture.large} alt="" />
-            <h3>
-              {user.name.first} {user.name.last}
-            </h3>
-            <p>{user.location.city}</p>
-            <p>{user.dob.age} ans</p>
-          </div>
+            <UserCard key={user.login.uuid} user={user} />
         ))}
       </section>
     </>
