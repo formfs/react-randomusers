@@ -1,0 +1,192 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Julia", "last": "Martin" },
+      "location": {
+        "street": { "number": 3918, "name": "Rue de L'Abbé-Patureau" },
+        "city": "Argenteuil",
+        "state": "Jura",
+        "country": "France",
+        "postcode": 55200,
+        "coordinates": { "latitude": "43.2653", "longitude": "137.1420" },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "julia.martin@example.com",
+      "login": {
+        "uuid": "7a506908-88b0-44a1-801b-63ff2db02924",
+        "username": "sadgoose277",
+        "password": "asimov",
+        "salt": "FTdsOeUa",
+        "md5": "6a619d0acf3386277bdb57393efd2bcb",
+        "sha1": "0423b854807dacc8a84e71e827c23a13929cd48f",
+        "sha256": "5f100d516683381827d2cc028a42036bf8fccc3cf9f6dcd59a4093612d887af0"
+      },
+      "dob": { "date": "1998-02-11T10:35:14.138Z", "age": 27 },
+      "registered": { "date": "2021-05-24T14:25:41.657Z", "age": 4 },
+      "phone": "05-60-16-12-70",
+      "cell": "06-06-17-87-87",
+      "id": { "name": "INSEE", "value": "2980186302756 48" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/16.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Lina", "last": "Fleury" },
+      "location": {
+        "street": { "number": 4956, "name": "Rue des Écoles" },
+        "city": "Le Havre",
+        "state": "Aube",
+        "country": "France",
+        "postcode": 63739,
+        "coordinates": { "latitude": "36.4667", "longitude": "-165.5321" },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "lina.fleury@example.com",
+      "login": {
+        "uuid": "0a2cdcec-da51-44c8-abe8-4207b619e639",
+        "username": "silverostrich560",
+        "password": "penguin",
+        "salt": "4AnJNiov",
+        "md5": "28144579b303f279868e969efc37f47b",
+        "sha1": "6231ac9e226c90c000ba19a48a45e80ec541e397",
+        "sha256": "63352d5bc930eaf4e509401477367c8f596fc33fc95ff16bcfd31acb0fab3011"
+      },
+      "dob": { "date": "1983-12-09T23:19:20.062Z", "age": 41 },
+      "registered": { "date": "2011-09-20T03:41:39.474Z", "age": 14 },
+      "phone": "05-91-72-52-26",
+      "cell": "06-60-32-51-94",
+      "id": { "name": "INSEE", "value": "2831124570902 57" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Mrs", "first": "Laurine", "last": "Schmitt" },
+      "location": {
+        "street": { "number": 52, "name": "Place de L'Église" },
+        "city": "Paris",
+        "state": "Loiret",
+        "country": "France",
+        "postcode": 38538,
+        "coordinates": { "latitude": "24.4136", "longitude": "-129.1719" },
+        "timezone": {
+          "offset": "+4:00",
+          "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+        }
+      },
+      "email": "laurine.schmitt@example.com",
+      "login": {
+        "uuid": "35aba8b7-8ff2-4c48-83ab-06481e6368b0",
+        "username": "lazypeacock827",
+        "password": "nopass",
+        "salt": "HPGfyQHm",
+        "md5": "96f43c6005964f7e4e1dce0ff9c37f59",
+        "sha1": "2360ba230968d2b6585344335ad2f543168bb1a1",
+        "sha256": "77c3c1e32b5728e2f455f3946dbfbf451dee7564c426289acdd2f278e3c7a541"
+      },
+      "dob": { "date": "1995-07-09T13:18:06.601Z", "age": 30 },
+      "registered": { "date": "2016-06-03T12:37:40.972Z", "age": 9 },
+      "phone": "05-44-37-82-84",
+      "cell": "06-89-77-43-79",
+      "id": { "name": "INSEE", "value": "2950649224005 97" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/71.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Abel", "last": "Riviere" },
+      "location": {
+        "street": { "number": 4369, "name": "Rue du Cardinal-Gerlier" },
+        "city": "Orléans",
+        "state": "Ain",
+        "country": "France",
+        "postcode": 90813,
+        "coordinates": { "latitude": "78.9956", "longitude": "-152.4654" },
+        "timezone": { "offset": "-2:00", "description": "Mid-Atlantic" }
+      },
+      "email": "abel.riviere@example.com",
+      "login": {
+        "uuid": "44f8f8a0-4a95-48a8-96b8-3a8bcebbf676",
+        "username": "tinydog634",
+        "password": "thedog",
+        "salt": "mVesmy9B",
+        "md5": "305daa90e149a4e0955d169b6feb8c6f",
+        "sha1": "5c980a0e13a8390f9aeac782e8cded5f60bf84e1",
+        "sha256": "a762d3e593c3f9ea16c4099409a98d261303eaaae3281e149e91d414dec88315"
+      },
+      "dob": { "date": "1953-09-25T10:24:42.062Z", "age": 72 },
+      "registered": { "date": "2018-02-05T00:45:46.280Z", "age": 7 },
+      "phone": "05-62-19-04-59",
+      "cell": "06-66-60-29-18",
+      "id": { "name": "INSEE", "value": "1530862998891 90" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/11.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+      },
+      "nat": "FR"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Jules", "last": "Marie" },
+      "location": {
+        "street": { "number": 6227, "name": "Rue Cyrus-Hugues" },
+        "city": "Courbevoie",
+        "state": "Val-de-Marne",
+        "country": "France",
+        "postcode": 18458,
+        "coordinates": { "latitude": "49.7954", "longitude": "126.3582" },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "jules.marie@example.com",
+      "login": {
+        "uuid": "3c6dfcb6-5cf7-4e33-b009-a50d66ca0e3c",
+        "username": "brownelephant227",
+        "password": "phillies",
+        "salt": "4GNxc9sN",
+        "md5": "12ba740ef6f95cbff0b27a2562408d45",
+        "sha1": "6a297354c975884899181788fb0ce8411f6cc88a",
+        "sha256": "0349f7702e260ae2d277ae62872cc289f67d3ad4fb6116106db01086b621abae"
+      },
+      "dob": { "date": "1950-03-15T23:41:14.906Z", "age": 75 },
+      "registered": { "date": "2010-01-22T12:49:12.545Z", "age": 15 },
+      "phone": "05-59-36-47-61",
+      "cell": "06-72-05-47-90",
+      "id": { "name": "INSEE", "value": "1500245809077 03" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/76.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+      },
+      "nat": "FR"
+    }
+  ],
+  "info": {
+    "seed": "fa6a78e7346ec522",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  }
+}
